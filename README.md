@@ -10,7 +10,7 @@ This repository contains a production-ready project with clear milestones, frequ
 ## Features
 - Clear, incremental feature development
 - Clean and readable codebase
-- Reproducible build and deployment steps
+- Reproducible build and deployment 
 - Publicly verifiable outputs (links, screenshots, logs)
 
 ## Tech Stack
